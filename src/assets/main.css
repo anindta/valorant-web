@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* Use the imported font in your styles */
+body {
+
+  background-color: black;
+}
